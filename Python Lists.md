@@ -1,8 +1,10 @@
-# Phython Lists
+# Python Lists
 
-## What is lists?
+## What are lists?
 - The lists are something like veriables that store multiple data that you can acces spesific one.
-- The list are usable for codding more then one elemet that you can use. Example: When server collects clients he is not going to store them in multiple variables,but only in *one*.
+- The list are usable for codding more then one elemet that you can use. 
+
+  Example: When server collects clients he is not going to store them in multiple variables,but only in one.
 And there is the **List**
 
 ## Syntax
@@ -14,6 +16,7 @@ print(example_list[1])
 print(example_list[2])
 
 ```
+#### ⚠ The data sorting starts with ``0``. So the first data that is saved is number ``0``.
 This is one way to register and use the list.
 ### Here is an exaplanation of the code
 So we need to create veriable that is storing these list.
@@ -27,7 +30,7 @@ print(example_list)
 ```
 But if you want to print only one data saved you can do it by specifing with square brackets ``[]``
 
-#### ⚠ The data sorting starts with 0. So the first data that is saved is number 0.
+#### ⚠ The data sorting starts with ``0``. So the first data that is saved is number ``0``.
 
 ```python
 print(example_list[0])
