@@ -32,8 +32,6 @@ But if you want to print only one data saved you can do it by specifing with squ
 ```python
 print(example_list[0])
 ```
-And just like that whe got the first data saved in the list.
-
 Output:
 ```output
 banana
