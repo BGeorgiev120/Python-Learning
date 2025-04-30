@@ -16,7 +16,7 @@ print(example_list[1])
 print(example_list[2])
 
 ```
-#### ⚠ The data sorting starts with ``0``. So the first data that is saved is number ``0``.
+#### ⚠ The data sorting starts with ``0``. So the first data that is printed is number ``0``.
 This is one way to register and use the list.
 ### Here is an exaplanation of the code
 So we need to create veriable that is storing these list.
