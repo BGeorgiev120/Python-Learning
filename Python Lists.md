@@ -30,8 +30,6 @@ print(example_list)
 ```
 But if you want to print only one data saved you can do it by specifing with square brackets ``[]``
 
-#### ⚠ The data sorting starts with ``0``. So the first data that is saved is number ``0``.
-
 ```python
 print(example_list[0])
 ```
