@@ -16,12 +16,12 @@ print(example_list[2])
 ```
 This is one way to register and use the list.
 ### Here is an exaplanation of the code
-So we need to create veriable that is storing these lists.
+So we need to create veriable that is storing these list.
 Then with square brackets `[]`  we type the data that we want to save.
 ```python
 example_list = ["string", veriable, 1] 
 ```
-#### Then we need to print the value of the lists
+#### Then we need to print the value of the list
 ```python
 print(example_list)
 ```
