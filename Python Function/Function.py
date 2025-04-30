@@ -16,9 +16,3 @@ while i < 5:
     i +=1
 # If you dont understand the While code make sure  to see Python While folder!
 # While can be used for so many things as good example for the functions.
-i = 20
-if i == 10 or i==1:
-    print(f"The value of 'i' is {i}")
-
-else:
-    print(f"The veriable 'i' is not number 1 or number 10")
